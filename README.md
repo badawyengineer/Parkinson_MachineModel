@@ -1,3 +1,4 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](Last_Parkinson_Model.ipynb)
 # Parkinson_MachineModel
 Project Overview
 
