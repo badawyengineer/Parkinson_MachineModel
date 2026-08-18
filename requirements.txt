@@ -1,0 +1,6 @@
+litestar
+uvicorn
+pydantic
+pandas
+joblib
+scikit-learn
